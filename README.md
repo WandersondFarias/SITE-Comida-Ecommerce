@@ -64,7 +64,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
  
 </table>
  
- check application <a href="https://wandersondefariasprogramador.github.io/Site-de-Relogios-15.12.22/
+ check application <a href="https://wandersondefariasprogramador.github.io/SITE-Comida-Ecommerce/
  ">HERE!</a>
 
 
